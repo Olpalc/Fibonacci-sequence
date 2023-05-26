@@ -14,7 +14,7 @@ int main() {
 
     std::cout << "Fibonacci sequence:\n";
     for (int i = 0; i < numTerms; ++i) {
-        std::cout << fibonacci(i) << " ";
+        std::cout << fibonacci(i) << " , ";
     }
 
     return 0;
